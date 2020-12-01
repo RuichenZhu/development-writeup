@@ -1,0 +1,45 @@
+/* Put your style information here! */
+#title {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: linear-gradient(rgb(230, 100, 101), rgb(145, 152, 229));
+}
+#title h1 {
+    color: white;
+    text-align: center;
+}
+
+#body1 {
+    padding-bottom: 100px;
+}
+
+.parts {
+    width: 800px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+#body1 img {
+    width: 200px;
+    float: right;
+    margin-left: 15px;
+}
+.row img {
+    width: 100%;
+    padding-top: 50px;
+}
+#pics {
+    order: 2;
+}
+#four {
+    width: 700px;
+    padding-left: 25px;
+}
